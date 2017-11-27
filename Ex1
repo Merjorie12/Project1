@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>My Good morning World!</h1>
-<p>Greetings to you!</p>
+<h1 style="background-color:DodgerBlue;">My Good morning World!</h1>
+<p1 style="background-color:SlateBlue;">Greetings to you!</p>
 </body>
 </html>
